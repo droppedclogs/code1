@@ -11,3 +11,5 @@ val1= sys.argv[1]
 val2=sys.argv[2]
 res=map(sys.argv[], rang)
 list(range(res))
+
+
